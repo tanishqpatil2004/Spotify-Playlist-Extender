@@ -176,4 +176,3 @@ This project is licensed under the **MIT License** — free to use and modify.
 ## 👤 Author
 **Tanishq Patil**  
 🎓 AIML Student | Manipal University Jaipur  
-📧 [LinkedIn](https://linkedin.com/in/tanishq-patil)
